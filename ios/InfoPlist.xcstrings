@@ -1,0 +1,99 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "talimger.kz"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "talimger.kz"
+          }
+        }
+      }
+    },
+    "NSCameraUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This app requires this permission to upload your selected photos as profile image"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Бұл қолданба таңдалған фотосуреттерді профильге салу үшін осы рұқсатты қажет етеді"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Это приложение требует разрешения для загрузки выбранных вами фотографий в профиль изображения"
+          }
+        }
+      }
+    },
+    "NSDocumentPickerUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Our app needs access to files to attach them to reviews or upload as profile image"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Біздің қолданбаға шолуларға тіркеу немесе профиль суреті ретінде жүктеп салу үшін файлдарға кіру рұқсаты қажет"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нашему приложению необходим доступ к файлам, чтобы прикреплять их к отзывам или загружать в виде изображения профиля"
+          }
+        }
+      }
+    },
+    "NSPhotoLibraryUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This app requires this permission to upload your selected photos as profile image"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Бұл қолданба таңдалған фотосуреттерді профильге салу үшін осы рұқсатты қажет етеді"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Это приложение требует разрешения для загрузки выбранных вами фотографий в профиль изображения"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
